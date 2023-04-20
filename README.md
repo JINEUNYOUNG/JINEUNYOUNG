@@ -1,6 +1,6 @@
 ▶ STUDY HARD ◀
 
-<img src="https://img.shields.io/badge/수강중-83B81A?style=flat-square&logo=eclipseide&logoColor=2C2255"/>
+<img src="https://img.shields.io/badge/Eclipse IDE-83B81A?style=flat-square&logo=eclipseide&logoColor=2C2255"/>
 
 
 ♥ MY ♥
