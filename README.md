@@ -6,5 +6,5 @@
 <img src="https://img.shields.io/badge/Eclipse IDE-5CE1E6?style=flat-square&logo=eclipseide&logoColor=2C2255"/>  <img src="https://img.shields.io/badge/Python-5CE1E6?style=flat-square&logo=python&logoColor=3776AB"/>
 
 [<img src="https://img.shields.io/badge/notion-999999?style=flat-square&logo=notion&logoColor=000000"/>](https://www.notion.so/apages/)
-**
+<hr>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sky20808)](https://solved.ac/sky20808/)
