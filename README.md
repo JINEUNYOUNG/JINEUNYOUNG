@@ -3,9 +3,7 @@
 
 **▶ STUDY HARD ◀**
 
-<img src="https://img.shields.io/badge/Eclipse IDE-5CE1E6?style=flat-square&logo=eclipseide&logoColor=2C2255"/>  <img src="https://img.shields.io/badge/Python-5CE1E6?style=flat-square&logo=python&logoColor=3776AB"/>
-
-[<img src="https://img.shields.io/badge/notion-999999?style=flat-square&logo=notion&logoColor=000000"/>]([https://www.notion.so/apages/](https://rune-condor-71c.notion.site/a2919249e24a4afdb9e304942e38f8c1?pvs=4))
+[![Notion](https://img.shields.io/badge/notion-999999?style=flat-square&logo=notion&logoColor=000000)](https://rune-condor-71c.notion.site/a2919249e24a4afdb9e304942e38f8c1?pvs=4)
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sky20808)](https://solved.ac/sky20808/)
